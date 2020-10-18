@@ -18,4 +18,7 @@ npm run build
 npm run build --report
 ```
 
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+用户管理系统
+1，完成了用户的增删该查
+2，是用户信息存储用的是json-server
+3，调用接口url用的vue-resource
